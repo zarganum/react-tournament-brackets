@@ -79,5 +79,8 @@
   "bugs": {
     "url": "https://github.com/g-loot/react-tournament-brackets/issues"
   },
-  "homepage": "https://github.com/g-loot/react-tournament-brackets#readme"
+  "homepage": "https://github.com/g-loot/react-tournament-brackets#readme",
+  "dependencies": {
+    "usehooks-ts": "^2.9.1"
+  }
 }
